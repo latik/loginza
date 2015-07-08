@@ -1,0 +1,17 @@
+{
+    "name": "latik/loginza",
+    "description": "Loginza API",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Latik",
+            "email": "latik@bistracker.org.ua"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Latik\\Loginza\\": "libs"
+        }
+	}
+}
